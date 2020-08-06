@@ -24,9 +24,10 @@ The transsition from using PostgreSQL to MongoDB was influenced by understanding
 - This project is complete.
 
 ## Reflection
+Creating the database for this project was a great experience. I did not intend to experience building both relational and NoSQL databases within this one project.
 
 ### Challenges
-Creating database was a very challenging process. It took me out of my comfort zone and it helped me 
+- The normalization process within a relational database
 
 ## Collaborators
 There are currently no collaborators on this project
