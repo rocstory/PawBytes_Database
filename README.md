@@ -4,7 +4,7 @@ Paw Bytes is a three part personal project which models a fictional restaurant.
 The three components of this project are
  - [React Web Application](https://github.com/rocstory/PawBytes_WebApp)
  - [Twitter Bot](https://github.com/rocstory/PawBytes_PawBot)
- - [MongoDB Database](https://github.com/rocstory/PawBytes_Database)
+ - MongoDB Database
 
 Paw Byte's database is an extension of the Paw Bytes Restaurant website. 
 
